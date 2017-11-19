@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "build-pipeline", "build-pipeline\build-pipeline.csproj", "{61786E10-05BF-4EE1-8ABB-8A643F042202}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "build-pipeline", "build-pipeline.csproj", "{61786E10-05BF-4EE1-8ABB-8A643F042202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
